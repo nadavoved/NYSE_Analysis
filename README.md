@@ -1,2 +1,2 @@
 # SomeSpreadSheetAnalysis
-NYSE real data in and fictional data in 'sheets'
+'prj_workbook' contains NYSE real data in and fictional data in 'sheets'
